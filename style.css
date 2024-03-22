@@ -169,3 +169,55 @@ button {
   display: flex;
   padding-left: 720px;
 }
+
+/* action section */
+.button-footer {
+  padding-right: 100px;
+}
+
+.button-footer button {
+  border: 2px solid;
+  font-size: 20px;
+}
+
+.action-text {
+  color: lightgrey;
+  font-size: 20px;
+}
+
+.action-section {
+  position: relative;
+  background-color: white;
+}
+
+.action-section:before {
+  content:"";
+  background-color: white;
+  position: absolute;
+  height: 100%;
+  width: 3555px;
+  left: -2000px;
+  z-index: -1;
+}
+
+.text-box {
+  background-color: #3882F6;
+  margin: 100px 0;
+  border-radius: 8px;
+  padding: 50px;
+}
+
+.action-header {
+  font-weight: bold;
+  font-size: 30px;
+  color: white;
+  padding-left: 100px;
+}
+
+.action-bottom {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding-left: 100px;
+}
+
