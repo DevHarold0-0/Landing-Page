@@ -221,3 +221,12 @@ button {
   padding-left: 100px;
 }
 
+/* footer */
+.footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #F9FAF8;
+  margin: 50px 0;
+  font-size: 18px;
+}

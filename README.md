@@ -26,4 +26,4 @@ https://unsplash.com/photos/person-in-red-jacket-and-blue-pants-sitting-on-rock-
 
 **Lesson**
 Never force margin in a way that manipulates the html tag. It's bad practice that will always hurt your code in the future. For future   reference use flex box to shrink or grow contained items. For this project to shrink the content from right and left use flex box's
-justify center and then make modifications from there. **This is better as apposed to brute forcing with margin.
+justify center and then make modifications from there. **This is better as apposed to brute forcing with margin.**
